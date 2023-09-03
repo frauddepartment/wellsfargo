@@ -1,0 +1,164 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 03 Sep 2023 00:51:21 at https://www.wellsfargo.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.wellsfargo.com -O1 "C:\Users\zfent\Desktop\Uninstall\wellss fargoo" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:10:40	Warning: 	Moved Permanently for https://www.wellsfargo.com/jump/enterprise/disaster-response-services/
+01:10:40	Warning: 	File has moved from https://www.wellsfargo.com/jump/enterprise/disaster-response-services/ to /es/jump/enterprise/disaster-response-services/
+01:15:05	Warning: 	Moved Permanently for https://www.wellsfargo.com/about/
+01:15:05	Warning: 	File has moved from https://www.wellsfargo.com/about/ to /es/about/
+01:15:08	Warning: 	Moved Temporarily for https://www.wellsfargo.com/help/
+01:15:08	Warning: 	File has moved from https://www.wellsfargo.com/help/ to https://www.wellsfargo.com/es/help/
+01:24:20	Warning: 	Moved Permanently for https://www.wellsfargo.com/help/routing-number/
+01:24:20	Warning: 	File has moved from https://www.wellsfargo.com/help/routing-number/ to /es/help/routing-number/
+01:24:24	Warning: 	Moved Temporarily for https://www.wellsfargo.com/checking/
+01:24:24	Warning: 	File has moved from https://www.wellsfargo.com/checking/ to https://www.wellsfargo.com/es/checking/
+01:33:40	Warning: 	Moved Temporarily for https://www.wellsfargo.com/savings-cds/
+01:33:40	Warning: 	File has moved from https://www.wellsfargo.com/savings-cds/ to https://www.wellsfargo.com/es/savings-cds/
+01:33:43	Warning: 	Moved Temporarily for https://www.wellsfargo.com/mortgage/
+01:33:43	Warning: 	File has moved from https://www.wellsfargo.com/mortgage/ to https://www.wellsfargo.com/es/mortgage/
+01:38:45	Warning: 	Moved Temporarily for https://www.wellsfargo.com/premier/
+01:38:45	Warning: 	File has moved from https://www.wellsfargo.com/premier/ to https://www.wellsfargo.com/es/premier/
+01:38:45	Warning: 	Moved Temporarily for https://www.wellsfargo.com/financial-health/
+01:38:45	Warning: 	File has moved from https://www.wellsfargo.com/financial-health/ to https://www.wellsfargo.com/es/financial-health/
+01:41:17	Warning: 	Moved Temporarily for https://www.wellsfargo.com/biz/
+01:41:17	Warning: 	File has moved from https://www.wellsfargo.com/biz/ to https://www.wellsfargo.com/es/biz/
+01:56:19	Warning: 	Moved Permanently for https://www.wellsfargo.com/checking/compare-checking-accounts/
+01:56:19	Warning: 	File has moved from https://www.wellsfargo.com/checking/compare-checking-accounts/ to /es/checking/compare-checking-accounts/
+02:02:39	Warning: 	Moved Permanently for https://www.wellsfargo.com/checking/clear-access-banking/
+02:02:39	Warning: 	File has moved from https://www.wellsfargo.com/checking/clear-access-banking/ to /es/checking/clear-access-banking/
+02:05:36	Warning: 	Moved Permanently for https://www.wellsfargo.com/checking/prime/
+02:05:36	Warning: 	File has moved from https://www.wellsfargo.com/checking/prime/ to /es/checking/prime/
+02:11:55	Warning: 	Moved Permanently for https://www.wellsfargo.com/checking/everyday/
+02:11:55	Warning: 	File has moved from https://www.wellsfargo.com/checking/everyday/ to /es/checking/everyday/
+02:14:52	Warning: 	Moved Permanently for https://www.wellsfargo.com/checking/premier/
+02:14:52	Warning: 	File has moved from https://www.wellsfargo.com/checking/premier/ to /es/checking/premier/
+02:21:08	Warning: 	Moved Permanently for https://www.wellsfargo.com/checking/student/
+02:21:08	Warning: 	File has moved from https://www.wellsfargo.com/checking/student/ to /es/checking/student/
+02:21:16	Warning: 	Moved Permanently for https://www.wellsfargo.com/checking/overdraft-services/
+02:21:16	Warning: 	File has moved from https://www.wellsfargo.com/checking/overdraft-services/ to /es/checking/overdraft-services/
+02:27:37	Warning: 	Moved Temporarily for https://www.wellsfargo.com/privacy-security/fraud/
+02:27:37	Warning: 	File has moved from https://www.wellsfargo.com/privacy-security/fraud/ to https://www.wellsfargo.com/es/privacy-security/fraud/
+02:30:30	Warning: 	Moved Temporarily for https://www.wellsfargo.com/help/checking-savings/
+02:30:30	Warning: 	File has moved from https://www.wellsfargo.com/help/checking-savings/ to https://www.wellsfargo.com/es/help/checking-savings/
+02:36:53	Warning: 	Moved Permanently for https://www.wellsfargo.com/international-remittances/
+02:36:53	Warning: 	File has moved from https://www.wellsfargo.com/international-remittances/ to /es/international-remittances/
+02:39:46	Warning: 	Moved Temporarily for https://www.wellsfargo.com/foreign-exchange/
+02:39:46	Warning: 	File has moved from https://www.wellsfargo.com/foreign-exchange/ to https://www.wellsfargo.com/es/foreign-exchange/
+02:46:09	Warning: 	Moved Temporarily for https://www.wellsfargo.com/goals-banking-made-easy/activate-debit-card/
+02:46:09	Warning: 	File has moved from https://www.wellsfargo.com/goals-banking-made-easy/activate-debit-card/ to https://www.wellsfargo.com/es/goals-banking-made-easy/activate-debit-card/
+02:49:00	Warning: 	Moved Temporarily for https://www.wellsfargo.com/mobile-online-banking/
+02:49:00	Warning: 	File has moved from https://www.wellsfargo.com/mobile-online-banking/ to https://www.wellsfargo.com/es/mobile-online-banking/
+02:55:15	Warning: 	Moved Temporarily for https://www.wellsfargo.com/mobile-online-banking/apps/
+02:55:15	Warning: 	File has moved from https://www.wellsfargo.com/mobile-online-banking/apps/ to https://www.wellsfargo.com/es/mobile-online-banking/apps/
+02:58:12	Warning: 	Moved Temporarily for https://www.wellsfargo.com/mobile-online-banking/transfer-pay/
+02:58:12	Warning: 	File has moved from https://www.wellsfargo.com/mobile-online-banking/transfer-pay/ to https://www.wellsfargo.com/es/mobile-online-banking/transfer-pay/
+03:04:27	Warning: 	Moved Permanently for https://www.wellsfargo.com/privacy-security/fraud/report/
+03:04:27	Warning: 	File has moved from https://www.wellsfargo.com/privacy-security/fraud/report/ to /es/privacy-security/fraud/report/
+03:07:26	Warning: 	Moved Temporarily for https://www.wellsfargo.com/savings-cds/rates/
+03:07:26	Warning: 	File has moved from https://www.wellsfargo.com/savings-cds/rates/ to https://www.wellsfargo.com/es/savings-cds/rates/
+03:13:39	Warning: 	Moved Temporarily for https://www.wellsfargo.com/savings-cds/way2save/
+03:13:39	Warning: 	File has moved from https://www.wellsfargo.com/savings-cds/way2save/ to https://www.wellsfargo.com/es/savings-cds/way2save/
+03:16:37	Warning: 	Moved Temporarily for https://www.wellsfargo.com/savings-cds/platinum/
+03:16:37	Warning: 	File has moved from https://www.wellsfargo.com/savings-cds/platinum/ to https://www.wellsfargo.com/es/savings-cds/platinum/
+03:22:53	Warning: 	Moved Temporarily for https://www.wellsfargo.com/savings-cds/certificate-of-deposit/
+03:22:53	Warning: 	File has moved from https://www.wellsfargo.com/savings-cds/certificate-of-deposit/ to https://www.wellsfargo.com/es/savings-cds/certificate-of-deposit/
+03:25:52	Warning: 	Moved Permanently for https://www.wellsfargo.com/savings-cds/kids/
+03:25:52	Warning: 	File has moved from https://www.wellsfargo.com/savings-cds/kids/ to /es/savings-cds/kids/
+03:32:08	Warning: 	Moved Permanently for https://www.wellsfargo.com/tax-center/
+03:32:08	Warning: 	File has moved from https://www.wellsfargo.com/tax-center/ to /es/tax-center/
+03:35:06	Warning: 	Moved Permanently for https://www.wellsfargo.com/credit-cards/
+03:35:06	Warning: 	File has moved from https://www.wellsfargo.com/credit-cards/ to /es/credit-cards/
+03:41:34	Warning: 	Moved Permanently for https://www.wellsfargo.com/mobile/payments/
+03:41:34	Warning: 	File has moved from https://www.wellsfargo.com/mobile/payments/ to /es/mobile/payments/
+03:41:34	Warning: 	Moved Temporarily for https://www.wellsfargo.com/goals-credit/smarter-credit/credit-101/fico/
+03:41:34	Warning: 	File has moved from https://www.wellsfargo.com/goals-credit/smarter-credit/credit-101/fico/ to https://www.wellsfargo.com/es/goals-credit/smarter-credit/credit-101/fico/
+03:41:34	Warning: 	Moved Temporarily for https://www.wellsfargo.com/help/credit-cards/credit-card-faqs/
+03:41:34	Warning: 	File has moved from https://www.wellsfargo.com/help/credit-cards/credit-card-faqs/ to https://www.wellsfargo.com/es/help/credit-cards/credit-card-faqs/
+03:41:45	Warning: 	Moved Temporarily for https://www.wellsfargo.com/mortgage/buying-a-house/
+03:41:45	Warning: 	File has moved from https://www.wellsfargo.com/mortgage/buying-a-house/ to https://www.wellsfargo.com/es/mortgage/buying-a-house/
+03:41:45	Warning: 	Moved Temporarily for https://www.wellsfargo.com/mortgage/mortgage-refinance/
+03:41:45	Warning: 	File has moved from https://www.wellsfargo.com/mortgage/mortgage-refinance/ to https://www.wellsfargo.com/es/mortgage/mortgage-refinance/
+03:41:45	Warning: 	Moved Temporarily for https://www.wellsfargo.com/mortgage/buying-a-house/first-time-home-buyer/
+03:41:45	Warning: 	File has moved from https://www.wellsfargo.com/mortgage/buying-a-house/first-time-home-buyer/ to https://www.wellsfargo.com/es/mortgage/buying-a-house/first-time-home-buyer/
+03:41:54	Warning: 	Moved Temporarily for https://www.wellsfargo.com/mortgage/manage-account/
+03:41:54	Warning: 	File has moved from https://www.wellsfargo.com/mortgage/manage-account/ to https://www.wellsfargo.com/es/mortgage/manage-account/
+03:41:54	Warning: 	Moved Temporarily for https://www.wellsfargo.com/mortgage/manage-account/payment-help/
+03:41:54	Warning: 	File has moved from https://www.wellsfargo.com/mortgage/manage-account/payment-help/ to https://www.wellsfargo.com/es/mortgage/manage-account/payment-help/
+03:41:54	Warning: 	Moved Permanently for https://www.wellsfargo.com/mortgage/manage-account/payments/
+03:41:54	Warning: 	File has moved from https://www.wellsfargo.com/mortgage/manage-account/payments/ to /mortgage/manage-account/
+03:41:57	Warning: 	Moved Temporarily for https://www.wellsfargo.com/mortgage/calculators/
+03:41:57	Warning: 	File has moved from https://www.wellsfargo.com/mortgage/calculators/ to https://www.wellsfargo.com/es/mortgage/calculators/
+04:45:14	Warning: 	Moved Temporarily for https://www.wellsfargo.com/financial-health/credit-and-debt/
+04:45:14	Warning: 	File has moved from https://www.wellsfargo.com/financial-health/credit-and-debt/ to https://www.wellsfargo.com/es/financial-health/credit-and-debt/
+04:45:14	Warning: 	Moved Temporarily for https://www.wellsfargo.com/financial-health/unexpected-expenses/
+04:45:14	Warning: 	File has moved from https://www.wellsfargo.com/financial-health/unexpected-expenses/ to https://www.wellsfargo.com/es/financial-health/unexpected-expenses/
+04:45:24	Warning: 	Moved Temporarily for https://www.wellsfargo.com/financial-health/buy-or-refinance-home/
+04:45:24	Warning: 	File has moved from https://www.wellsfargo.com/financial-health/buy-or-refinance-home/ to https://www.wellsfargo.com/es/financial-health/buy-or-refinance-home/
+04:45:24	Warning: 	Moved Temporarily for https://www.wellsfargo.com/financial-health/spending-and-saving/
+04:45:24	Warning: 	File has moved from https://www.wellsfargo.com/financial-health/spending-and-saving/ to https://www.wellsfargo.com/es/financial-health/spending-and-saving/
+04:45:24	Warning: 	Moved Temporarily for https://www.wellsfargo.com/financial-health/big-purchases/
+04:45:24	Warning: 	File has moved from https://www.wellsfargo.com/financial-health/big-purchases/ to https://www.wellsfargo.com/es/financial-health/big-purchases/
+04:45:25	Warning: 	Moved Temporarily for https://www.wellsfargo.com/financial-health/life-events/
+04:45:25	Warning: 	File has moved from https://www.wellsfargo.com/financial-health/life-events/ to https://www.wellsfargo.com/es/financial-health/life-events/
+04:54:25	Warning: 	Moved Permanently for https://www.wellsfargo.com/goals-credit/debt-to-income-calculator/
+04:54:25	Warning: 	File has moved from https://www.wellsfargo.com/goals-credit/debt-to-income-calculator/ to /es/goals-credit/debt-to-income-calculator/
+05:04:21	Warning: 	Moved Temporarily for https://www.wellsfargo.com/privacy-security/fraud/?linkLoc=signon
+05:04:21	Warning: 	File has moved from https://www.wellsfargo.com/privacy-security/fraud/?linkLoc=signon to https://www.wellsfargo.com/es/privacy-security/fraud/?linkLoc=signon
+05:04:25	Warning: 	Moved Permanently for https://www.wellsfargo.com/privacy-security/?linkLoc=signon
+05:04:25	Warning: 	File has moved from https://www.wellsfargo.com/privacy-security/?linkLoc=signon to /es/privacy-security/?linkLoc=signon
+05:14:20	Warning: 	Moved Permanently for https://www.wellsfargo.com/financial-education/
+05:14:20	Warning: 	File has moved from https://www.wellsfargo.com/financial-education/ to /es/financial-education/
+05:14:20	Warning: 	Moved Temporarily for https://www.wellsfargo.com/mortgage/buying-a-house/?dm=DMIWE7AWHK
+05:14:20	Warning: 	File has moved from https://www.wellsfargo.com/mortgage/buying-a-house/?dm=DMIWE7AWHK to https://www.wellsfargo.com/es/mortgage/buying-a-house/?dm=DMIWE7AWHK
+05:14:22	Warning: 	Moved Temporarily for https://www.wellsfargo.com/mortgage/buying-a-house/?dm=DMIWE7AWHM
+05:14:22	Warning: 	File has moved from https://www.wellsfargo.com/mortgage/buying-a-house/?dm=DMIWE7AWHM to https://www.wellsfargo.com/es/mortgage/buying-a-house/?dm=DMIWE7AWHM
+05:15:34	Warning: 	Moved Temporarily for https://www.wellsfargo.com/financial-health/spending-and-saving/?utm_source=WFHP&utm_medium=DEFBanner&utm_campaign=FHSMLPROMO
+05:15:34	Warning: 	File has moved from https://www.wellsfargo.com/financial-health/spending-and-saving/?utm_source=WFHP&utm_medium=DEFBanner&utm_campaign=FHSMLPROMO to https://www.wellsfargo.com/es/financial-health/spending-and-saving/?utm_source=WFHP&utm_medium=DEFBanner&utm_campaign=FHSMLPROMO
+05:24:19	Warning: 	Moved Temporarily for https://www.wellsfargo.com/financial-health/credit-and-debt/?utm_source=WFHP&utm_medium=DEFBanner&utm_campaign=FHSMLPROMO
+05:24:19	Warning: 	File has moved from https://www.wellsfargo.com/financial-health/credit-and-debt/?utm_source=WFHP&utm_medium=DEFBanner&utm_campaign=FHSMLPROMO to https://www.wellsfargo.com/es/financial-health/credit-and-debt/?utm_source=WFHP&utm_medium=DEFBanner&utm_campaign=FHSMLPROMO
+05:24:22	Warning: 	Moved Permanently for https://www.wellsfargo.com/financial-health/tools/?utm_source=WFHP&utm_medium=DEFBanner&utm_campaign=FHSMLPROMO
+05:24:22	Warning: 	File has moved from https://www.wellsfargo.com/financial-health/tools/?utm_source=WFHP&utm_medium=DEFBanner&utm_campaign=FHSMLPROMO to /es/financial-health/tools/?utm_source=WFHP&utm_medium=DEFBanner&utm_campaign=FHSMLPROMO
+05:24:31	Warning: 	Moved Permanently for https://www.wellsfargo.com/mobile/apps/
+05:24:31	Warning: 	File has moved from https://www.wellsfargo.com/mobile/apps/ to /es/mobile/apps/
+05:24:31	Warning: 	Moved Permanently for https://www.wellsfargo.com/privacy-security/
+05:24:31	Warning: 	File has moved from https://www.wellsfargo.com/privacy-security/ to /es/privacy-security/
+05:24:31	Warning: 	Moved Temporarily for https://www.wellsfargo.com/privacy-security/notice-of-data-collection/
+05:24:31	Warning: 	File has moved from https://www.wellsfargo.com/privacy-security/notice-of-data-collection/ to https://www.wellsfargo.com/es/privacy-security/notice-of-data-collection/
+05:24:31	Warning: 	Moved Permanently for https://www.wellsfargo.com/privacy-security/terms/
+05:24:31	Warning: 	File has moved from https://www.wellsfargo.com/privacy-security/terms/ to /es/privacy-security/terms/
+05:24:31	Warning: 	Moved Permanently for https://www.wellsfargo.com/online-banking/online-access-agreement/
+05:24:31	Warning: 	File has moved from https://www.wellsfargo.com/online-banking/online-access-agreement/ to /es/online-banking/online-access-agreement/
+05:24:32	Warning: 	Moved Temporarily for https://www.wellsfargo.com/privacy-security/online/
+05:24:32	Warning: 	File has moved from https://www.wellsfargo.com/privacy-security/online/ to https://www.wellsfargo.com/es/privacy-security/online/
+05:24:32	Warning: 	Moved Permanently for https://www.wellsfargo.com/about/?linkLoc=footer/
+05:24:32	Warning: 	File has moved from https://www.wellsfargo.com/about/?linkLoc=footer/ to /es/about/?linkLoc=footer/
+05:24:39	Warning: 	Moved Temporarily for https://www.wellsfargo.com/about/diversity/
+05:24:39	Warning: 	File has moved from https://www.wellsfargo.com/about/diversity/ to https://www.wellsfargo.com/es/about/diversity/
+05:24:39	Warning: 	Moved Permanently for https://www.wellsfargo.com/sitemap/
+05:24:39	Warning: 	File has moved from https://www.wellsfargo.com/sitemap/ to /es/sitemap/
+05:24:39	Warning: 	Moved Permanently for https://www.wellsfargo.com/online-banking/transfers/zelle-terms/
+05:24:39	Warning: 	File has moved from https://www.wellsfargo.com/online-banking/transfers/zelle-terms/ to /es/online-banking/transfers/zelle-terms/
+05:39:54	Warning: 	Moved Permanently for https://www.wellsfargo.com/es/credit-cards/
+05:39:54	Warning: 	File has moved from https://www.wellsfargo.com/es/credit-cards/ to https://creditcards.wellsfargo.com/es/
+05:51:35	Warning: 	Moved Temporarily for https://www.wellsfargo.com/es/financial-education/
+05:51:35	Warning: 	File has moved from https://www.wellsfargo.com/es/financial-education/ to https://www.wellsfargo.com/es/financial-health/
+10:45:33	Warning: 	Moved Permanently for https://www.wellsfargo.com/es/mobile/apps/
+10:45:33	Warning: 	File has moved from https://www.wellsfargo.com/es/mobile/apps/ to /mobile-online-banking/apps/index/
+10:46:18	Warning: 	Link https://www.wellsfargo.com/es/jump/enterprise/disaster-response-services/ not scanned (follow robots meta tag)
+10:47:01	Warning: 	Moved Permanently for https://www.wellsfargo.com/privacy-security/fraud/report/phish/
+10:47:01	Warning: 	File has moved from https://www.wellsfargo.com/privacy-security/fraud/report/phish/ to /es/privacy-security/fraud/report/phish/
+10:47:01	Warning: 	Moved Permanently for https://www.wellsfargo.com/privacy-security/fraud/protecting-you/
+10:47:01	Warning: 	File has moved from https://www.wellsfargo.com/privacy-security/fraud/protecting-you/ to /es/privacy-security/fraud/protecting-you/
+10:47:01	Warning: 	Moved Permanently for https://www.wellsfargo.com/spanish/
+10:47:01	Warning: 	File has moved from https://www.wellsfargo.com/spanish/ to /es/
+10:47:06	Warning: 	Moved Permanently for https://www.wellsfargo.com/online-banking/
+10:47:06	Warning: 	File has moved from https://www.wellsfargo.com/online-banking/ to /es/online-banking/
+10:53:15	Warning: 	Moved Permanently for https://www.wellsfargo.com/investing/
+10:53:15	Warning: 	File has moved from https://www.wellsfargo.com/investing/ to /investing-wealth/
+10:58:06	Warning: 	Moved Permanently for https://www.wellsfargo.com/goals-retirement/
+10:58:06	Warning: 	File has moved from https://www.wellsfargo.com/goals-retirement/ to /financial-health/investing-and-retirement/
+11:23:06	Warning: 	Link https://www.wellsfargo.com/investing/guidance/consultation/ not scanned (follow robots meta tag)
